@@ -1,7 +1,8 @@
 # Spoton-JobSearch
 Helsinki University, Final Project for Building AI Course
 
-![AI Network](https://raw.githubusercontent.com/ChatGPTAssets/ai-images/main/ai-network-01.png)
+![AI Network](https://raw.githubusercontent.com/miyuki-in-aus/Spoton-JobSearch/main/images/ai-network.jpg)
+
 
 
 ## Summary
