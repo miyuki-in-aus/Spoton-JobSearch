@@ -1,8 +1,7 @@
 # Spoton-JobSearch
 Helsinki University, Final Project for Building AI Course
 
-![image.avif](https://cdn.pixabay.com/photo/2017/09/25/13/12/network-2780248_1280.jpg))
-
+<img src="https://raw.githubusercontent.com/miyuki-in-aus/Spoton-JobSearch/main/image.avif" width="600">
 
 
 ## Summary
